@@ -1,1 +1,3 @@
-
+ESP32 has been used as a client in the system. 
+It is connected with a usb data cable as a serial communication process. 
+It receives data from the pc and sends them to ESP8266 over a wifi network. 
