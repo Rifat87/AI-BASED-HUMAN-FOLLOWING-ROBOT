@@ -19,12 +19,10 @@ Saiful Islam (2001025)
 ----------------------------------++++++++++++++++++----------------------------------
 
 
-![image](https://github.com/Rifat87/AI-BASED-HUMAN-FOLLOWING-ROBOT/assets/102798983/e90ba9d8-15e7-402e-95ec-e0b5fcf4b470)
+![IMG20230611114341](https://github.com/Rifat87/AI-BASED-HUMAN-FOLLOWING-ROBOT/assets/102798983/9c85fbd8-1386-4605-bb07-12f7d9af9adc)
 
-![image](https://github.com/Rifat87/AI-BASED-HUMAN-FOLLOWING-ROBOT/assets/102798983/39b3bd43-b3a1-43af-aaa1-bdbd858a5a65)
+Table of contents
 
-
-![image](https://github.com/Rifat87/AI-BASED-HUMAN-FOLLOWING-ROBOT/assets/102798983/bbd8ee5f-acec-4481-bdda-fb5e12da9fa9)
 
 
 
